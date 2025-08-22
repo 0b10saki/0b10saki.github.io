@@ -7,6 +7,6 @@ layout: about
 Hello desuwa~
 
 
-谨以此记录我所遭受的全部痛苦，并昭示：我超越了它们。
+谨以此记录我所遭受的全部痛苦，如是昭示：我已超越它们。
 
 Hoc testimonio consigno universa tormenta quae pertuli. Nunquam datum est mihi ea superare.
